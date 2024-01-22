@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-07/08
+date: 2015-10-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Workshop on Using Automatic Text Recognition (ATR)
+A simple inline announcement.
