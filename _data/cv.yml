@@ -1,0 +1,97 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Floriane Chiffoleau
+    - name: Date of Birth
+      value: 26th April 1994
+    - name: Languages
+      value: French, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master's degree "Technologies numériques appliquées à l’histoire"
+      institution: École nationale des chartes, Paris, France
+      year: 2019
+      description: Internship report: « Vers un alignement de traductions et d’éditions à partir d’un lexique et à travers un corpus multilingue »
+    - title: Master's degree in Late Modern History
+      institution: Université Paris 1 Panthéon-Sorbonne, Paris, France
+      year: 2017
+      description: Research paper: « Captivité des prisonniers de guerre français pendant la Seconde Guerre mondiale : le cas des aspirants du stalag IA (1940-1945) »
+    - title: Dual Bachelor's degree History-Law
+      institution : Université Paris 1 Panthéon-Sorbonne, Paris, France
+      year : 2015
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: PhD candidate in Digital Humanities
+      institution: Le Mans Université/ALMAnaCH Inria, Le Mans/Paris, France
+      year: October 2021 - Today
+      description: Dissertation : The Making of Text. Optical Script Recognition and Textual Heritage
+
+    - title: Internship tutor
+      institution: ALMAnaCH Inria, Paris, France
+      year: April - July 2023
+      description: Supervision for four months of two interns, working on digital humanities projects
+
+    - title: Research and Development Engineer
+      institution: ALMAnaCH Inria, Paris, France
+      year: March 2020 - October 2021
+      description:
+        - Digital editions of historical manuscripts (correspondences)
+        - Segmentation, transcription and semi-automatic encoding of a correspondence, development of a hosting website and publications on the progress of the project.
+
+    - title: Contractor
+      institution: Comité d’histoire du Ministère de la Culture, Paris, France
+      year: January - March and October - December 2019
+      description:
+        - Source guide of the Grands Travaux culturels.
+        - Notices ISAD(G), ISAAR et ISDIAH with Excel, uploading on a Wordpress, making of biographical notes, documentation research on the grands travaux, etc.
+
+    - title: Intern
+      institution: EHESS, Paris, France
+      year: April - July 2019
+      description:
+        - Master’s validation internship.
+        - Alignement work on a law treatise. Use of Python, OCR, XML and TXM.
+
+    - title: Intern
+      institution: Service Historique de la Défense, Paris, France
+      year: April - June 2018
+
+- title: Languages
+  type: list
+  contents:
+    - French: Native Language
+    - English: Fluent
+    - Spanish: Grade level
+    - Latin/Greek: Basics
+
+- title: Computer skills
+  type: nested_list
+  contents:
+    - title: Tools
+      items:
+        - Git
+        - Kraken
+        - LATEX
+        - Omeka
+        - SQL
+        - TEI Publisher
+        - TXM
+    - title: Languages
+      items:
+        - CSS
+        - EAD
+        - HTML
+        - Python
+        - TEI XML
+
+- title: Hobbies
+  type: list
+  contents:
+    - <u>Culture:</u> Museums, Movies, Reading.
+    - <u>Sport:</u> Weight training, Swimming, Yoga.
